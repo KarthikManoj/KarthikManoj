@@ -28,7 +28,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/50723029/94177687-96299800-feb7-11ea-97a9-23b440642f66.png" />
 <img align="left" alt="Android" width="50px" src="https://user-images.githubusercontent.com/50723029/94177689-975ac500-feb7-11ea-9b67-4a8a05ddeacf.png" />
 
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/50723029/94177692-988bf200-feb7-11ea-944b-f017717a65ac.png" />
+<img align="left" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/50723029/94177692-988bf200-feb7-11ea-944b-f017717a65ac.png" />
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/50723029/94177693-988bf200-feb7-11ea-8892-a88efdaab454.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
