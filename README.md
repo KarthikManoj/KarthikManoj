@@ -24,5 +24,11 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/50723029/94177690-97f35b80-feb7-11ea-94b8-a650ae45253b.png" />
+<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/50723029/94177687-96299800-feb7-11ea-97a9-23b440642f66.png" />
+<img align="left" alt="Android" width="26px" src="https://user-images.githubusercontent.com/50723029/94177689-975ac500-feb7-11ea-9b67-4a8a05ddeacf.png" />
+
+<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/50723029/94177692-988bf200-feb7-11ea-944b-f017717a65ac.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/50723029/94177693-988bf200-feb7-11ea-8892-a88efdaab454.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/50723029/94176938-7180f080-feb6-11ea-86d8-9febf41eeec1.jpeg" />
