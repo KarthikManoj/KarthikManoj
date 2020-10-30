@@ -29,7 +29,8 @@
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/50723029/94178831-4055ef80-feb9-11ea-901c-c46996f32c63.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<Br />
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikManoj&layout=compact)](https://github.com/KarthikManoj/README)
