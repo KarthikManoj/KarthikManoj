@@ -31,6 +31,6 @@
 
 <Br />
 
-Compact layout
+
 <Br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikManoj&layout=compact)](https://github.com/KarthikManoj/README)
