@@ -38,3 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikManoj&layout=compact)](https://github.com/KarthikManoj/README)
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=KarthikManoj)
