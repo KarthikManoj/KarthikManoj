@@ -10,7 +10,6 @@
 [<img align="left" alt="Manoj Anbalagan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="___bruce_____ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
 
 <!-- Languages and Tools: 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,9 +25,6 @@
 <img align="left" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/50723029/94177692-988bf200-feb7-11ea-944b-f017717a65ac.png" />
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/50723029/94178831-4055ef80-feb9-11ea-901c-c46996f32c63.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-
-<Br />
-
 
 <Br />
 <Br />
